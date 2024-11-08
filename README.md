@@ -1,0 +1,1 @@
+# github-resolve-conflict
